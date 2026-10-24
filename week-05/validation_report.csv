@@ -1,0 +1,11 @@
+index,invalid_value_count
+invalid_sales_amount,32
+invalid_phone_number,18
+invalid_discount,9
+invalid_quantity,5
+invalid_order_id,0
+duplicate_order_id,0
+invalid_region,0
+invalid_order_date,0
+invalid_delivery_date,0
+invalid_logic,0
